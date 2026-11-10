@@ -124,7 +124,7 @@ parameters:
   value: "28800000"
 - description: Amount of worker threads that puppeteer-cluster will use
   name: MAX_CONCURRENCY
-  value: "2"
+  value: "8"
 - description: SSO/Keycloak base URL for token refresh
   name: SSO_URL
   value: ""
